@@ -133,8 +133,8 @@ Contributed to **160+ development tasks** across multiple production web applica
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=julianatashaa&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianatashaa&layout=compact&theme=dark&hide_border=true" height="165"/>
 </p>
 
 ---

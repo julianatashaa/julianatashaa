@@ -6,7 +6,7 @@ Software Engineering undergraduate at **Universiti Malaysia Sabah (UMS)** with h
 
 I enjoy developing practical software solutions, working with APIs and databases, and continuously learning modern web technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohammadhafiizzz&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=julianatashaa&color=blueviolet&style=flat-square)
 ---
 
 ## 💻 About Me
